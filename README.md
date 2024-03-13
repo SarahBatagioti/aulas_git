@@ -8,3 +8,5 @@
     <li>Commit</li>
     <li>Push</li>
 </ul>
+
+### Conflito de commits
